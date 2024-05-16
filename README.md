@@ -8,4 +8,6 @@
 > Este arquivo e o instalador do Photoshop não apague!
 
 **3 Escolha o idioma e local de instalação, e pronto!**
-> Ele não ira avisar quando terminar, apenas fique olhando para ver se foi
+> Ele não ira avisar quando terminar, apenas fique olhando para ver se ocorreu tudo certo!
+
+### Após Terminar está pronto so Ultilizar!
