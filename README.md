@@ -11,3 +11,5 @@
 > Ele não ira avisar quando terminar, apenas fique olhando para ver se ocorreu tudo certo!
 
 ### Após Terminar está pronto so Ultilizar!
+
+Lembre-se estou apenas repassando, não reclame se e pirateado, e acaso queria pedir para retirar, entre em contato primeiro!
